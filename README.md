@@ -1,2 +1,2 @@
 # site
-Site [rastreio correios](https://twitcorreio.com/)
+Site [sua receita](https://suareceita.net)
